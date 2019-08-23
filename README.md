@@ -2,7 +2,7 @@
 
 ##### Data download 받기
 
-
+0) miro에서 dataset다운받는다
 1) 0.1_binarize.py실행하여 label파일 binarize화 한다. 
 2) 0.2_sizing.py실행하여 모든 파일 resize시킨다.
    - resize전에 모든 파일 이름을 4자리 숫자(예: 0001.jpg)로 맞춘다. dark namer프로그램 등을 이용하라.
