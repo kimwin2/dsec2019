@@ -1,6 +1,7 @@
 ## DSEC welding defect classification 
 
 ##### Data download 받기
+##### 현재 버전은 CRRN + mask RCNN 버전
 
 0) miro에서 dataset다운받는다
 1) 0.1_binarize.py실행하여 label파일 binarize화 한다. 
