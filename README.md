@@ -1,7 +1,7 @@
 ## DSEC welding defect classification 
 
 ##### Data download 받기
-
+## test
 
 1) 0.1_binarize.py실행하여 label파일 binarize화 한다. 
 2) 0.2_sizing.py실행하여 모든 파일 resize시킨다.
